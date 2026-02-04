@@ -1,14 +1,19 @@
 {
   "products": [
-    { "id": 1, "name": "Áo cưới công chúa Luxury", "price": 6500000 },
-    { "id": 2, "name": "Váy cưới ren trắng", "price": 3200000 },
-    { "id": 3, "name": "Vest chú rể Hàn Quốc", "price": 4800000 },
-    { "id": 4, "name": "Áo dài cưới truyền thống", "price": 2800000 },
-    { "id": 5, "name": "Váy cưới đuôi cá", "price": 5500000 },
-    { "id": 6, "name": "Vest đen cao cấp", "price": 5200000 },
-    { "id": 7, "name": "Áo cưới phong cách châu Âu", "price": 7500000 },
-    { "id": 8, "name": "Váy cưới vintage", "price": 3900000 },
-    { "id": 9, "name": "Vest xanh lịch lãm", "price": 4600000 },
-    { "id": 10, "name": "Áo cưới đơn giản thanh lịch", "price": 3000000 }
+    { "id": "1", "name": "Áo sơ mi nam", "price": 150000, "isDeleted": false },
+    { "id": "2", "name": "Quần jean nữ", "price": 250000, "isDeleted": false },
+    { "id": "3", "name": "Giày thể thao", "price": 550000, "isDeleted": false },
+    { "id": "4", "name": "Túi xách da", "price": 450000, "isDeleted": false },
+    { "id": "5", "name": "Đồng hồ nam", "price": 1200000, "isDeleted": false },
+    { "id": "6", "name": "Tai nghe Bluetooth", "price": 350000, "isDeleted": false },
+    { "id": "7", "name": "Bàn phím cơ", "price": 890000, "isDeleted": false },
+    { "id": "8", "name": "Chuột gaming", "price": 420000, "isDeleted": false },
+    { "id": "9", "name": "Laptop Dell", "price": 15000000, "isDeleted": false },
+    { "id": "10", "name": "Màn hình Samsung", "price": 3200000, "isDeleted": false },
+    { "id": "11", "name": "Loa Bluetooth JBL", "price": 1800000, "isDeleted": false },
+    { "id": "12", "name": "Sạc dự phòng", "price": 280000, "isDeleted": false },
+    { "id": "13", "name": "Ốp lưng iPhone", "price": 90000, "isDeleted": false },
+    { "id": "14", "name": "Balo laptop", "price": 350000, "isDeleted": false },
+    { "id": "15", "name": "Camera an ninh", "price": 950000, "isDeleted": false }
   ]
 }
